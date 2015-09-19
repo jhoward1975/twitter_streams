@@ -1,0 +1,12 @@
+/ebin/*.beam
+/rebar
+*~
+*.orig
+.*.swp
+/rt.work
+/rebar.cmd
+/.eunit
+/deps
+/.rebar
+env
+*.keys
